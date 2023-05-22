@@ -8,7 +8,7 @@ const buildConfig = getBuildConfig();
 
 export const metadata = {
   title: "男神是康德的御用GPT",
-  description: "Your personal ChatGPT Chat Bot.",
+  description: "—人类必胜AI—",
   viewport: {
     width: "device-width",
     initialScale: 1,
@@ -19,7 +19,7 @@ export const metadata = {
     { media: "(prefers-color-scheme: dark)", color: "#151515" },
   ],
   appleWebApp: {
-    title: "ChatGPT Next Web",
+    title: "男神是康德的御用GPT",
     statusBarStyle: "default",
   },
 };
